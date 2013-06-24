@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIAuthenticationDialog.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIDataDecompressor.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIAuthenticationDialog.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIDataDecompressor.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIFormDataRequest.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIFormDataRequest.m
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIInputStream.h
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/wap/!svn/ver/93598/trunk/client/onsite/SinaCollection/trunk/SinaCollection/ASIHttpRequest/ASIDataCompressor.m
+END
